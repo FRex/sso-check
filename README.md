@@ -7,7 +7,7 @@ to see what is the maximum length of SSO (short string optimization - storing th
 
 # Extra reading about SSO:
 
-* [CppCon 2016: Nicholas Ormrod - The strange details of std::string at Facebook](https://www.youtube.com/watch?v=kPR8h4-qZdk)
+* [(video) CppCon 2016: Nicholas Ormrod - The strange details of std::string at Facebook](https://www.youtube.com/watch?v=kPR8h4-qZdk)
 * [SSO-23 - proof of concept string that uses all bytes for SSO](https://github.com/elliotgoodrich/SSO-23)
 * [Meaning of acronym SSO in the context of std::string](https://stackoverflow.com/questions/10315041/meaning-of-acronym-sso-in-the-context-of-stdstring)
 * [How to Measure String SSO Length with constinit and constexpr](https://www.cppstories.com/2022/sso-cpp20-checks/)
